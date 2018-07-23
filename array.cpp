@@ -1,4 +1,5 @@
-/*joe hollon
+/*
+joe hollon
 may 28 18
 This program takes in 3 companys and the total profit 
 and outputs the total profit of all companys together.
